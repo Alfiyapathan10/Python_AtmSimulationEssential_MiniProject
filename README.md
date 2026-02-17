@@ -22,6 +22,9 @@ Exception Handling
 CLI (Command Line Interface)
 
 ▶️ How to Run
+
 Install Python (3.x)
+
 Download or clone this repository
+
 Run the file:
