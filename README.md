@@ -34,7 +34,7 @@ Run the file:
 
 ![Image](https://github.com/user-attachments/assets/da138391-4a85-4ecc-aa43-e0fd17c518dc)
 
-![Image](https://github.com/user-attachments/assets/f3edaa14-083d-4870-adea-e5dd1a06ee6e)
+
 
 
 
