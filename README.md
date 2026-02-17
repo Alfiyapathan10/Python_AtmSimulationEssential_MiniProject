@@ -6,6 +6,7 @@ A simple Command-Line ATM Simulation built using Python.
 This project demonstrates basic concepts of Object-Oriented Programming (OOP), input validation, conditional statements, loops, and error handling.
 
 🚀 Features
+
 🔐 Secure 4-digit PIN authentication (3 attempts limit)
 💰 Check account balance
 ➕ Deposit money
@@ -16,6 +17,7 @@ This project demonstrates basic concepts of Object-Oriented Programming (OOP), i
 
 
 🛠️ Technologies Used
+
 Python 3
 OOP (Classes & Methods)
 Exception Handling
